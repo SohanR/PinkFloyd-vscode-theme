@@ -2,4 +2,4 @@
 
 ## screenshot
 
-![](https://github.com/SohanR/PinkFloyd-vscode-theme/blob/master/img/screenshot.png)
+![](https://raw.githubusercontent.com/SohanR/PinkFloyd-vscode-theme/master/img/screenshot.png)
