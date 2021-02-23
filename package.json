@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.53.0"
   },
-  "icon": "/img/icon.png",
+  "icon": "icon.png",
   "keywords": [
     "pink",
     "floyd",
